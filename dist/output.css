@@ -662,6 +662,10 @@ video {
   bottom: -4px;
 }
 
+.left-\[1\.11px\] {
+  left: 1.11px;
+}
+
 .mt-\[2px\] {
   margin-top: 2px;
 }
@@ -759,6 +763,18 @@ video {
   height: 1px;
 }
 
+.h-2 {
+  height: 0.5rem;
+}
+
+.h-\[37px\] {
+  height: 37px;
+}
+
+.h-\[393\.214px\] {
+  height: 393.214px;
+}
+
 .w-full {
   width: 100%;
 }
@@ -846,6 +862,26 @@ video {
 
 .w-px {
   width: 1px;
+}
+
+.w-\[14px\] {
+  width: 14px;
+}
+
+.w-\[268\.89px\] {
+  width: 268.89px;
+}
+
+.w-\[270px\] {
+  width: 270px;
+}
+
+.w-\[93\.33px\] {
+  width: 93.33px;
+}
+
+.w-\[94\.82px\] {
+  width: 94.82px;
 }
 
 .max-w-\[1440px\] {
@@ -948,6 +984,10 @@ video {
   gap: 2.25rem;
 }
 
+.gap-\[9px\] {
+  gap: 9px;
+}
+
 .self-stretch {
   align-self: stretch;
 }
@@ -970,6 +1010,10 @@ video {
 
 .rounded-xl {
   border-radius: 0.75rem;
+}
+
+.rounded-\[10px\] {
+  border-radius: 10px;
 }
 
 .border {
@@ -1004,6 +1048,16 @@ video {
 .bg-sky-600 {
   --tw-bg-opacity: 1;
   background-color: rgb(2 132 199 / var(--tw-bg-opacity));
+}
+
+.bg-green-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(21 128 61 / var(--tw-bg-opacity));
+}
+
+.bg-slate-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(241 245 249 / var(--tw-bg-opacity));
 }
 
 .bg-opacity-0 {
@@ -1081,6 +1135,10 @@ video {
   padding-bottom: 10px;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .font-roboto {
   font-family: Roboto, sans-serif;
 }
@@ -1129,6 +1187,10 @@ video {
   line-height: 1.75rem;
 }
 
+.text-\[11px\] {
+  font-size: 11px;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -1149,8 +1211,16 @@ video {
   font-weight: 900;
 }
 
+.font-\[1000\] {
+  font-weight: 1000;
+}
+
 .uppercase {
   text-transform: uppercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
 }
 
 .leading-\[13\.78px\] {
@@ -1181,12 +1251,20 @@ video {
   line-height: 1.5;
 }
 
+.leading-\[19\.14px\] {
+  line-height: 19.14px;
+}
+
 .tracking-\[3\.07px\] {
   letter-spacing: 3.07px;
 }
 
 .tracking-wider {
   letter-spacing: 0.05em;
+}
+
+.tracking-wide {
+  letter-spacing: 0.025em;
 }
 
 .text-amber-400 {
