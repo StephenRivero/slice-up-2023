@@ -666,6 +666,34 @@ video {
   left: 1.11px;
 }
 
+.bottom-0 {
+  bottom: 0px;
+}
+
+.right-2 {
+  right: 0.5rem;
+}
+
+.bottom-\[6px\] {
+  bottom: 6px;
+}
+
+.right-\[15px\] {
+  right: 15px;
+}
+
+.bottom-\[8px\] {
+  bottom: 8px;
+}
+
+.right-\[17px\] {
+  right: 17px;
+}
+
+.bottom-\[10px\] {
+  bottom: 10px;
+}
+
 .mt-\[2px\] {
   margin-top: 2px;
 }
